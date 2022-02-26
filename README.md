@@ -2,7 +2,7 @@
 ## About the Project
 
 This project is a single page application landing page clone of Swiggy.
-- component based.
+- component based build with React.js
 - Responsive for all screen size
  Live Application here: https://romantic-yalow-f1b9e2.netlify.app
 
