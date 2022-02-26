@@ -21,6 +21,5 @@ This project is a single page application landing page clone of Swiggy.
 - React Docs https://reactjs.org/docs/getting-started.html
 - W3schools.com
 - Google Fonts
-- Material UI used for styling
 - FontAwesome
 
